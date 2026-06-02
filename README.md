@@ -46,20 +46,21 @@ Fewest orders: 480
 ## 📋 Dashboard Pages
 ## 🏠 Home Dashboard
 Provides a high-level overview of business performance:
-KPI Cards
-Daily Sales Trend
-Monthly Sales Trend
-Sales by Category
-Sales by Pizza Size
+* KPI Cards
+* Daily Sales Trend
+* Monthly Sales Trend
+* % of Sales by Pizza_Category
+* % of Sales by Pizza_Size
+* Total pizza Sold by  Pizza_Category
 ## 📊 Performance Dashboard
 Provides detailed product analysis:
 
-Top 5 Pizzas by Revenue
-Top 5 Pizzas by Quantity Sold
-Top 5 Pizzas by Orders
-Bottom 5 Pizzas by Revenue
-Bottom 5 Pizzas by Quantity Sold
-Bottom 5 Pizzas by Orders
+* Top 5 Pizzas by Revenue
+* Top 5 Pizzas by Quantity Sold
+* Top 5 Pizzas by Orders
+* Bottom 5 Pizzas by Revenue
+* Bottom 5 Pizzas by Quantity Sold
+* Bottom 5 Pizzas by Orders
 
 ## 🛠 Tools & Technologies
 Microsoft Power BI| Microsoft Excel | DAX | Power Query |Data Modeling | Data Visualization | SQL
