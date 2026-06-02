@@ -24,6 +24,7 @@ Generate actionable business recommendations.
 | 🍕 Total Pizzas Sold   | 49.57K   |
 | 🛒 Total Orders        | 21,350   |
 | 📈 Average Order Value | $38.31   |
+| 🍕 Average Pizzas per Order | 2.32 |
 
 ## 📈 Key Insights
 ## 📅 Sales Trends
