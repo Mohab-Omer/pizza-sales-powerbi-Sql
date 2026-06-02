@@ -26,25 +26,25 @@ Generate actionable business recommendations.
 | 📈 Average Order Value | $38.31   |
 
 ## 📈 Key Insights
-📅 Sales Trends
+## 📅 Sales Trends
 Fridays and Saturdays are the busiest days.
 January and July recorded the highest monthly sales.
 Customer demand peaks during lunch and evening hours.
-🍕 Category Performance
+## 🍕 Category Performance
 Classic Pizzas are the top-performing category.
 Contributed 26.91% of total sales.
 Generated 14,888 orders.
-🏆 Best-Selling Pizza
+## 🏆 Best-Selling Pizza
 Thai Chicken Pizza
 Highest revenue-generating product.
 Generated approximately $43K in revenue.
-# 📉 Lowest-Performing Pizza
+## 📉 Lowest-Performing Pizza
 Brie Carre Pizza
 Lowest revenue: $11.6K
 Fewest orders: 480
 
 ## 📋 Dashboard Pages
-🏠 Home Dashboard
+## 🏠 Home Dashboard
 Provides a high-level overview of business performance:
 KPI Cards
 Daily Sales Trend
@@ -62,7 +62,7 @@ Bottom 5 Pizzas by Quantity Sold
 Bottom 5 Pizzas by Orders
 
 ## 🛠 Tools & Technologies
-Microsoft Power BI|Microsoft Excel|DAX|Power Query|Data Modeling|Data Visualization |SQL
+Microsoft Power BI| Microsoft Excel | DAX | Power Query |Data Modeling | Data Visualization | SQL
 
 ## 💡 Recommendations
 Increase staffing during peak demand periods (Fridays and Saturdays).
